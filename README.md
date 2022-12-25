@@ -10,7 +10,7 @@ I'm interested in applying research computing towards the goal of addressing glo
 
 - **Source control:** proficiency with losing and unlosing with Git
 
-- **Continuous integration:** dumb pipes, lazy people
+- **Continuous integration:** eager pipes, lazy people
 
 - **Infrastructure as code:** less clicking, more sipping
 
@@ -20,11 +20,7 @@ I'm interested in applying research computing towards the goal of addressing glo
 
 - **Monitoring and logging:** what goes up, must come down
 
-- **Test automation:** KISS
-
-- **Cloud computing:** someone else's datacentre 
-
-- **Security:** all your secrets are belong to us
+- **Cloud computing:** snapping things together in someone else's datacentre 
 
 - **Collaboration and communication:** some things are easier said than done
 
