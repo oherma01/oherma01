@@ -8,25 +8,25 @@ I'm interested in applying research computing towards the goal of addressing glo
 
 #### ⚙️ Core Competencies (as I would define them) 
 
-- **Source control:** proficiency with version control systems such as Git
+- **Source control:** proficiency with losing and unlosing with Git
 
-- **Continuous integration and delivery:** experience setting up and maintaining CI/CD pipelines
+- **Continuous integration:** dumb pipes, lazy people
 
-- **Infrastructure as code:** knowledge of tools and practices for managing infrastructure through code, such as Terraform and Azure Resource Manager
+- **Infrastructure as code:** less clicking, more sipping
 
-- **Configuration Management:** managing and maintaining the integrity of an organization's systems, applications, and infrastructure over time.
+- **Configuration Management:** turning it off and on again
 
-- **Containerization:** experience with containerization technologies such as Docker and Kubernetes
+- **Containerization:** there's a microservice for that
 
-- **Monitoring and logging:** understanding of how to set up and maintain monitoring and logging systems for applications and infrastructure
+- **Monitoring and logging:** what goes up, must come down
 
-- **Test automation:** knowledge of and experience with automated testing tools and practices
+- **Test automation:** KISS
 
-- **Cloud computing:** familiarity with cloud platforms such as Azure and Openshift
+- **Cloud computing:** someone else's datacentre 
 
-- **Security:** understanding of security best practices and experience implementing security measures in applications and infrastructure
+- **Security:** all your secrets are belong to us
 
-- **Collaboration and communication:** ability to work effectively in a team and communicate effectively with team members and stakeholders.
+- **Collaboration and communication:** some things are easier said than done
 
 <!---
 oherma01/oherma01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
