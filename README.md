@@ -1,11 +1,8 @@
-#### 👋 About Me 
+I'm a dedicated career amateur with a knack for racking and stacking, systems administration, scientific computing, and all things infrastructure. 
 
-Hello, I’m Oliver, a career amateur with a background in automation, systems administration and cloud computing. 
+Occasionally, I dabble in the occult art of application development as well, summoning nonsense from the ether. 
 
-#### ☁️ What I'm Up To 
-
-Applying research computing towards the goal of addressing global issues in the technology sphere.
-
+🔮
 <!---
 oherma01/oherma01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
